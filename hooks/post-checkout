@@ -1,0 +1,5 @@
+# .git/hooks/post-checkout
+#!/bin/sh
+
+# Call the custom script to check and initialize submodules
+scripts/check-and-init-submodules.sh
