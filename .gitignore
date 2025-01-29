@@ -1,0 +1,18 @@
+# Ignore compiled hook scripts
+*.o
+*.out
+
+# Ignore backup files created by editors
+*~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
